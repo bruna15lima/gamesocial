@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE;AACd,EAAE,EAAE,EAAE,EAAE,CAAC;AACT,EAAE,EAAE,EAAE;AACN,MAAM;AACN,MAAM;AACN,SAAS,CAAC;EACR,MAAM,EAAE,CAAC;CACV",
+    "sources": [
+        "main.scss",
+        "_bootstrap-override.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
